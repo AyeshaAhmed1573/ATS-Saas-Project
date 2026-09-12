@@ -77,11 +77,7 @@ key and activates itself.
 | POST | `/api/billing/checkout` | Create Stripe Checkout session |
 | POST | `/api/billing/webhook` | Stripe webhook receiver |
 
-## What's intentionally left for you to extend
-- Password reset / email verification
-- PDF export of the resume editor content
-- Richer resume sections (structured fields instead of a single text block)
-- Rate limiting on the scoring endpoint
+
 
 ## Design
 Palette: ink `#12142B`, paper `#F6F5F0`, cobalt `#3D4EF2`, amber `#F2A93D`.
